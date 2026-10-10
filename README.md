@@ -6,7 +6,7 @@ Além de possuir uso individual, ele foi projetado para atender a criação loca
 O código foi feito em Python 3 com o uso majoritário da biblioteca Tkinter para implementação de uma UI gráfica em janela.
 
 ## Demonstração
-Abra o executável na mesma pasta deste README:
+Abra o executável após extrair a pasta ZIP "TierLister.zip" que se encontra na mesma pasta que este README:
 
 ![Local image](./assets/Folder.png)
 
@@ -93,6 +93,7 @@ Após a criação de uma nova tierlist, há diversas opções para inserção e 
 Os arquivos presentes são:
 * README.md: este arquivo README que contém as especificações e instruções sobre como utilizar o programa.
 * LICENSE.txt: arquivo de texto que contém os detalhes acerca da licensa adotada neste projeto.
+* requirements.txt: arquivo de texto que conta com as dependências para Pillow.
 * /images: pasta contendo as imagens dos ícones usados nos botões do programa.
 * /saves: pasta que contém as tierlists salvas como arquivos de texto, cujos nomes são os títulos das referentes tierlists.
 * /Tierlists: pasta que contém as imagens exportadas das tierlists feitas no programa.
