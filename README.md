@@ -43,8 +43,24 @@ Para remover um item da tierlist, bassta clicar no pequeno botão de "X" em seu 
 ![Local image](./assets/Options.png)
 
 
-## Instalação
-O arquivo contém o executável "TierLister.exe" que pode ser usado para acesso imediato ao programa e alternativamente o arquivo contendo o código fonte em python "TierLister.py", que pode ser compilado utilizando a biblioteca PyInstaller.
+## Instalação e Requerimentos
+### Requerimentos:
+O programa funciona apenas no sistema operacional Windows.
+
+### Instalação
+Extraia a pasta ZIP "TierLister.zip" e a abra no Visual Studio Code.
+
+O arquivo contém o executável "TierLister.exe" que pode ser usado para acesso imediato ao programa e alternativamente o arquivo contendo o código fonte em python "TierLister.py". 
+
+Para usar a versão em python, instale o Python 3 e a extensão de python da Microsoft para o VS Code. 
+
+Download do Python: https://www.python.org/downloads/
+Extensão: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+O programa depende da biblioteca do Python Pillow. Para instalá-la, abra o Prompt de Comando e digite no terminal:
+'''pip install Pillow'''
+
+Após a instalação estar finalizada, escolha a opção "Run Python File in Terminal" na aba Run do menu do VS Code. Se for necessário, selecione o Python 3 como interpretador. Após rodar o programa, uma janelá abrirá.
 
 ## Uso
 ### Menu Inicial
