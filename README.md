@@ -94,7 +94,7 @@ Após a criação de uma nova tierlist, há diversas opções para inserção e 
 ## Estrutura
 Os arquivos presentes são:
 * README.md: este arquivo README que contém as especificações e instruções sobre como utilizar o programa.
-* LICENSE.txt: arquivo de texto que contém os detalhes acerca da licensa adotada neste projeto.
+* LICENSE: arquivo que contém os detalhes acerca da licensa adotada neste projeto.
 * requirements.txt: arquivo de texto que conta com as dependências para Pillow.
 * /images: pasta contendo as imagens dos ícones usados nos botões do programa.
 * /saves: pasta que contém as tierlists salvas como arquivos de texto, cujos nomes são os títulos das referentes tierlists.
@@ -104,4 +104,4 @@ Os arquivos presentes são:
 * TierLister.exe: executável do programa.
 
 ## Licença
-A licença adotada neste projeto é a MIT LICENSE, disponível aqui: [LICENSE.txt](./LICENSE.txt)
+A licença adotada neste projeto é a MIT LICENSE, disponível aqui: [LICENSE](./LICENSE)
