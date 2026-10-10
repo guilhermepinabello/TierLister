@@ -50,6 +50,8 @@ O programa funciona apenas no sistema operacional Windows.
 ### Instalação
 Extraia a pasta ZIP "TierLister.zip" e a abra no Visual Studio Code.
 
+Crie duas pastas na mesma pasta que "TierLister.exe" e "TierLister.py" com os nomes: "saves" e "Tierlists" (sem aspas).
+
 O arquivo contém o executável "TierLister.exe" que pode ser usado para acesso imediato ao programa e alternativamente o arquivo contendo o código fonte em python "TierLister.py". 
 
 Para usar a versão em python, instale o Python 3 e a extensão de python da Microsoft para o VS Code. 
