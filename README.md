@@ -96,6 +96,7 @@ Os arquivos presentes são:
 * /images: pasta contendo as imagens dos ícones usados nos botões do programa.
 * /saves: pasta que contém as tierlists salvas como arquivos de texto, cujos nomes são os títulos das referentes tierlists.
 * /Tierlists: pasta que contém as imagens exportadas das tierlists feitas no programa.
+* /assets: pasta contendo imagens utilizadas neste README.
 * TierLister.py: código fonte em python do programa.
 * TierLister.exe: executável do programa.
 
